@@ -1,0 +1,7 @@
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\bin\Debug\netcoreapp2.2\RestaurantApi.Core.deps.json
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\bin\Debug\netcoreapp2.2\RestaurantApi.Core.dll
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\bin\Debug\netcoreapp2.2\RestaurantApi.Core.pdb
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\obj\Debug\netcoreapp2.2\RestaurantApi.Core.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\obj\Debug\netcoreapp2.2\RestaurantApi.Core.AssemblyInfo.cs
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\obj\Debug\netcoreapp2.2\RestaurantApi.Core.dll
+C:\Users\osama\source\repos\RestaurantApi\RestaurantApi.Core\obj\Debug\netcoreapp2.2\RestaurantApi.Core.pdb
